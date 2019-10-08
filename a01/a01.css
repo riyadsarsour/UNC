@@ -1,0 +1,69 @@
+.mHead
+{
+    color: #889000;
+    
+}
+
+h2{
+    color: #ffffff;
+}
+
+a{
+    color: aqua;
+}
+
+a:hover{
+    color: #ca876f;
+}
+
+html{
+    background: #004080;
+}
+
+#learn{
+    background-color: #004080;
+}
+.main{
+    background-color: #004080;
+}
+
+ul{
+    list-style: upper-roman;
+}
+p{
+    background-color: #ffffff;
+}
+img{
+    height: 400px;
+    width: 500px
+}
+
+p > .kmp{
+    color: darkgoldenrod;
+}
+
+#history{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h3 , #history{
+   text-align: center;
+   border-left: yellow;
+   border-right: yellow;
+}
+
+.homeBody{
+    color: #908fff;
+}
+.mHead{
+    font-family: cursive;
+}
+
+#zeuss{
+    border: 2px solid brown;
+}
+
+.best{
+    color: aqua;
+}
